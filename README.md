@@ -35,9 +35,5 @@ An AI-powered Resume Analysis and Job Recommendation System built using Streamli
    streamlit run app.py
    ```
 
-## 👤 Author
-
-Developed and maintained by **[BGJ06](https://github.com/BGJ06)**.
-
 ---
 *Feel free to star ⭐️ this repository if you find it helpful!*
